@@ -1,0 +1,27 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chawanvitaofxqq04-create/test01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chawanvitaofxqq04-create/test01/issues"
+  },
+  "homepage": "https://github.com/chawanvitaofxqq04-create/test01#readme",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
